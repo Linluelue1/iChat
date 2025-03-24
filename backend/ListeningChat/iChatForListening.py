@@ -99,7 +99,7 @@ class IELTSAssistant:
 
 def main():
     # 初始化配置
-    api_key = "sk-d8aa43d322ba44b3b105b98feeb142a6"  # 替换为实际API密钥
+    api_key = "your-apikey-heres"  # 替换为实际API密钥
     assistant = IELTSAssistant(api_key)
 
     print("雅思考试助手已启动（输入exit退出）")

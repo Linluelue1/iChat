@@ -16,7 +16,7 @@ CORS(app)  # 启用跨域支持
 # 注意：这里的 base_url 链接可能存在问题，导致无法正常解析。
 # 如果遇到问题，请检查链接的合法性或稍后重试。
 client = OpenAI(
-    api_key="sk-d8aa43d322ba44b3b105b98feeb142a6",  # 使用环境变量获取 API Key
+    api_key="your-apikey-heres",  # 使用环境变量获取 API Key
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"  # 设置你的基础 API URL
 )
 

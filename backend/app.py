@@ -13,7 +13,7 @@ CORS(app)  # 启用跨域支持
 
 # 配置 OpenAI 客户端
 client = OpenAI(
-    api_key="sk-d8aa43d322ba44b3b105b98feeb142a6",
+    api_key="your-api-key-here",
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
 )
 

@@ -15,7 +15,7 @@ with open("writingKB.json", "r") as f:
     knowledge_base = json.load(f)
 
 # 初始化 OpenAI 客户端
-client = OpenAI(api_key="sk-d8aa43d322ba44b3b105b98feeb142a6", base_url="https://dashscope.aliyuncs.com/compatible-mode/v1")
+client = OpenAI(api_key="your-apikey-heres", base_url="https://dashscope.aliyuncs.com/compatible-mode/v1")
 
 
 def retrieve_documents(query, top_k=3):
