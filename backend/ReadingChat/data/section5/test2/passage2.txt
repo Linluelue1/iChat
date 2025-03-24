@@ -1,0 +1,231 @@
+5-2-2
+Title: What’s so funny?
+
+Sub title: John McCrone reviews recent research on humour
+
+Context: 
+The joke comes over the headphones: 'Which side of a dog has the most hair? The left.' No, not funny. Try again. 'Which side of a dog has the most hair? The outside.' Hah! The punchline is silly yet fitting, tempting a smile, even a laugh. Laughter has always struck people as deeply mysterious, perhaps pointless. The writer Arthur Koestler dubbed it the luxury reflex: 'unique in that it serves no apparent biological purpose'.
+
+Theories about humour have an ancient pedigree. Plato expressed the idea that humour is simply a delighted feeling of superiority over others. Kant and Freud felt that joke-telling relies on building up a psychic tension which is safely punctured by the ludicrousness of the punchline. But most modern humour theorists have settled on some version of Aristotle's belief that jokes are based on a reaction to or resolution of incongruity, when the punchline is either a nonsense or, though appearing silly, has a clever second meaning.
+
+Graeme Ritchie, a computational linguist in Edinburgh, studies the linguistic structure of jokes in order to understand not only humour but language understanding and reasoning in machines. He says that while there is no single format for jokes, many revolve around a sudden and surprising conceptual shift. A comedian will present a situation followed by an unexpected interpretation that is also apt.
+
+So even if a punchline sounds silly, the listener can see there is a clever semantic fit and that sudden mental 'Aha!' is the buzz that makes us laugh. Viewed from this angle, humour is just a form of creative insight, a sudden leap to a new perspective.
+
+However, there is another type of laughter, the laughter of social appeasement and it is important to understand this too. Play is a crucial part of development in most young mammals. Rats produce ultrasonic squeaks to prevent their scuffles turning nasty. Chimpanzees have a 'play-face' - a gaping expression accompanied by a panting 'ah, ah' noise. In humans, these signals have mutated into smiles and laughs. Researchers believe social situations, rather than cognitive events such as jokes, trigger these instinctual markers of play or appeasement. People laugh on fairground rides or when tickled to flag a play situation, whether they feel amused or not.
+
+Both social and cognitive types of laughter tap into the same expressive machinery in our brains, the emotion and motor circuits that produce smiles and excited vocalisations. However, if cognitive laughter is the product of more general thought processes, it should result from more expansive brain activity.
+
+Psychologist Vinod Goel investigated humour using the new technique of 'single event' functional magnetic resonance imaging (fMRI). An MRI scanner uses magnetic fields and radio waves to track the changes in oxygenated blood that accompany mental activity. Until recently, MRI scanners needed several minutes of activity and so could not be used to track rapid thought processes such as comprehending a joke. New developments now allow half-second 'snapshots' of all sorts of reasoning and problem-solving activities.
+
+Although Goel felt being inside a brain scanner was hardly the ideal place for appreciating a joke, he found evidence that understanding a joke involves a widespread mental shift. His scans showed that at the beginning of a joke the listener's prefrontal cortex lit up, particularly the right prefrontal believed to be critical for problem solving. But there was also activity in the temporal lobes at the side of the head (consistent with attempts to rouse stored knowledge) and in many other brain areas. Then when the punchline arrived, a new area sprang to life - the orbital prefrontal cortex. This patch of brain tucked behind the orbits of the eyes is associated with evaluating information.
+
+Making a rapid emotional assessment of the events of the moment is an extremely demanding job for the brain, animal or human. Energy and arousal levels may need to be retuned in the blink of an eye. These abrupt changes will produce either positive or negative feelings. The orbital cortex, the region that becomes active in Goel's experiment, seems the best candidate for the site that feeds such feelings into higher-level thought processes, with its close connections to the brain's sub-cortical arousal apparatus and centres of metabolic control.
+
+All warm-blooded animals make constant tiny adjustments in arousal in response to external events, but humans, who have developed a much more complicated internal life as a result of language, respond emotionally not only to their surroundings, but to their own thoughts. Whenever a sought-for answer snaps into place, there is a shudder of pleased recognition. Creative discovery being pleasurable, humans have learned to find ways of milking this natural response. The fact that jokes tap into our general evaluative machinery explains why the line between funny and disgusting, or funny and frightening, can be so fine. Whether a joke gives pleasure or pain depends on a person's outlook.
+
+Humour may be a luxury, but the mechanism behind it is no evolutionary accident. As Peter Derks, a psychologist at William and Mary College in Virginia, says: 'I like to think of humour as the distorted mirror of the mind. It's creative, perceptual, analytical and lingual. If we can figure out how the mind processes humour, then we'll have a pretty good handle on how it works in general.'
+
+Questions 14-20
+
+Choose TRUE if the statement agrees with the information given in the text,
+
+choose FALSE if the statement contradicts the information,
+
+or choose NOT GIVEN if there is no information on this.
+14
+Arthur Koestler considered laughter biologically important in several ways.
+TRUE
+FALSE
+NOT GIVEN
+
+正确答案：F
+收起解析
+参考译文：Arthur Koestler认为从生物学角度来看，笑在很多地方都很重要。
+
+定位词：Arthur Koestler
+
+解题关键词：biologically important
+
+文中对应第一段：The writer Arthur Koestler dubbed it the luxury reflex:"unique in that it serves no apparent biological purpose." 文中已经明确指出“笑的独特之处就在于它没有明显的生物学目的”，而题目却一定要说它从生物学的很多方面而言都很重要，本题是抵触型的FALSE。
+
+15
+Plato believed humour to be a sign of above-average intelligence.
+TRUE
+FALSE
+NOT GIVEN
+
+正确答案：NG
+收起解析
+参考译文：柏拉图认为笑是智力超群的标志。
+
+定位词：Plato
+
+解题关键词：above-average intelligence
+
+文中对应第二段：Plato expressed the idea that humour is simply a delighted feeling of superiority over others.这句话应该翻译为“柏拉图认为幽默是因感觉比别人优越而体会到的快乐感觉”，而并没有具体提到在哪方面比别人优越。题目将这个范围缩小到了在智力上比别人优越，明显是一道完全未提及型的NOT GIVEN。
+
+
+16
+Kant believed that a successful joke involves the controlled release of nervous energy.
+TRUE
+FALSE
+NOT GIVEN
+
+正确答案：T
+收起解析
+参考译文：康德认为一个成功的笑话会使神经能量得到有控制的释放。
+
+定位词：Kant
+
+解题关键词：controlled release
+
+文中对应第二段: Kant and Freud felt that joke-telling relies on building up a psychic tension which is safely punctured by the ludicrousness of the punchline.
+
+康德和弗洛伊德认为讲笑话时需要营造一种精神上的紧张气氛，最后科开笑话的包袱，让其滑稽有趣之处化解这种紧张气氛。tension等同于energysafely punctured等同于controlled release本题是一道典型的同义词对应型的TRUE。
+
+17
+Current thinking on humour has largely ignored Aristotle’s view on the subject.
+TRUE
+FALSE
+NOT GIVEN
+
+正确答案：F
+收起解析
+参考译文：最近我们有关幽默的思考基本上忽略了亚里土多德的观点。
+
+定位词：Aristotle
+
+解题关键词：largely ignored
+
+文中对应第二段:But most modern humour theorists have settled on some version of Aristotle's belief..但是大多数当代幽默理论家最终都采纳了类似亚里土多德的观点……
+
+settle on决定；选定 比如：He finally settled on that blue jacket.
+
+题目中的ignore就和这个词组抵触了，反义词抵触型FALSE。
+
+
+18
+Graeme Ritchie’s work links jokes to artificial intelligence.
+TRUE
+FALSE
+NOT GIVEN
+
+正确答案：T
+收起解析
+参考译文：Graeme Ritchie的研究将笑话与人工智能联系在了一起。
+
+定位词：Graeme Ritchie
+
+解题关键词：artificial intelligence
+
+文中对应第三段：Graeme Ritchie,..., studies the linguistic structure of jokes ... in machines.Graeme Ritchie在研究笑话的语言结构，不仅为了理解幽默，同时也为了了解机器的语言理解能力及推理能力。此题的关键是理解artificial intelligence一词。所谓A.I.，其实就是指机器可以具有理解语言和逻辑推理的能力。具体信息可以参看本书第三套题目的第三篇文章。
+
+
+19
+Most comedians use personal situations as a source of humour.
+TRUE
+FALSE
+NOT GIVEN
+
+正确答案：NG
+收起解析
+参考译文：大多数喜剧演员都爱拿个人情景当笑料。
+
+定位词：comedians
+
+解题关键词：personal situations
+
+文中对应第三段最后一句话：A comedian will present a situation followed by an unexpected interpretation that is also apt.喜剧演员会描述一个情景，然后给出一个出人意料却又恰如其分的解释。这里并未提到喜剧演员是否会将个人情景作为笑料。
+
+
+20
+Chimpanzees make particular noises when they are playing.
+TRUE
+FALSE
+NOT GIVEN
+
+正确答案：T
+收起解析
+参考译文：黑猩猩在玩耍时会发出特殊的叫声。
+
+定位词：chimpanzees
+
+解题关键词：particular noises, playing
+
+文中对应第五段:Chimpanzees have a "play-face"—a gaping expression accompanied by a panting “ah,ah" noise.黑猩猩有一种游戏表情，把嘴张得大大的，同时发出“啊、啊”的喘息声。文中这句话正好表明了黑猩猩在玩耍的时候会发出某种声音，与题目一致，故选择TRUE。
+
+Questions 21-23
+Complete the summary below.
+Write NO MORE THAN TWO WORDS from the text in each gap.
+Write your answers in boxes 21-23 on your answer sheet.
+
+正确答案：
+21、problem solving22、temporal lobes23、evaluating information
+收起解析
+题号：21
+
+定位词：Right prefrontal cortex…listener's prefrontal cortex lit up, particularly the right prefrontal believed to be critical for problem solving.
+
+文章对应点：问题要求填出right prefrontal cortex与何种思维活动有关，所以答案为problem solving。
+
+题号：22
+
+定位词：too, But there was also activity in the temporal lobes...
+
+文章对应点：题目中的active对应文中的activity。当然，实际上这道题目只要能将题目中的too和文章中的also相对应就能解出来了。答案是temporal lobes。
+
+题号：23
+
+定位词：orbital prefrontal cortex…—the orbital prefrontal cortex. This patch of brain tucked behind the orbits of the eyes is associated with evaluating information.
+
+文章对应点：题目中的involved with相当于文章中的associated with，所以答案应该选择evaluating information。
+
+
+Questions 24-27
+
+Choose the correct answer and move it into the gap.
+One of the brain's most difficult tasks is to 24
+Because of the language they have developed, humans 25
+Individual responses to humour 26
+Peter Derks believes that humour 27
+
+Options:
+A. react to their own thoughts
+B. helped created language in humans
+C. respond instantly to whatever is happening
+D. may provide valuable information about the operation of the brain.
+E. cope with difficult situations.
+F relate to a person's subjective views.
+G. led our ancestors to smile and then laugh.
+
+正确答案：
+24、C25、A26、F27、D
+收起解析
+题号：24
+
+定位词：brain, most different
+
+文章对应第九段：Making a rapid emotional assessment of the events of the moment is an extremely demanding job for the brain.其中extremely demanding就相当于24题中的most difficult，而a rapid emotional assessment就等同于respond instantly to。
+
+题号：25
+
+定位词：language
+
+文章对应第十段：…, but humans, who have developed a much more complicated internal life as a result of language, respond emotionally not only to their surroundings,but to their own thoughts.
+
+这句话刚好和A答案相呼应。
+
+题号：26
+
+定位词：individual
+
+文章对应第十段：Whether a joke gives pleasure or pain depends on a
+
+person' s outlook. outlook指“观念，观点”，等同于F答案中的subjective views。
+
+题号：27
+
+定位词：Peter Derks
+
+文章对应第十一段：If we can figure out how the mind processes humour, then we'll have a pretty good handle on how it works in general. mind等同于答案D中的brain，works 则等同于operation。

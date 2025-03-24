@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DeepSeek 雅思助手</title>
+    <!-- 引入分离后的CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="app-container">
+        <!-- 头部 -->
+        <nav class="nav-header">
+            <div class="logo">DS</div>
+            <div class="mode-switcher">
+                <button class="mode-btn active" data-mode="speaking">口语</button>
+                <button class="mode-btn" data-mode="listening">听力</button>
+                <button class="mode-btn" data-mode="reading">阅读</button>
+                <button class="mode-btn" data-mode="writing">写作</button>
+            </div>
+        </nav>
+
+        <!-- 聊天记录 -->
+        <main class="chat-container" id="chatHistory">
+            <div class="message bot-message">
+                您好！我是DeepSeek雅思助手，请问您想练习哪个部分？
+            </div>
+        </main>
+
+        <!-- 输入区域 -->
+        <div class="input-wrapper">
+            <div class="input-box">
+                <textarea
+                    id="userInput"
+                    placeholder="输入您的问题..."
+                    rows="1"
+                ></textarea>
+                <button class="send-btn" onclick="sendMessage()">发送</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 引入JavaScript -->
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

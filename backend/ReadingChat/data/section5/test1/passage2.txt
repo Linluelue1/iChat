@@ -1,0 +1,228 @@
+5-1-2
+Title: Nature or Nurture?
+
+Context:
+A    A few years ago, in one of the most fascinating and disturbing experiments in behavioural psychology, Stanley Milgram of Yale University tested 40 subjects from all walks of life for their willingness to obey instructions given by a 'leader' in a situation in which the subjects might feel a personal distaste for the actions they were called upon to perform. Specifically, Milgram told each volunteer 'teacher-subject' that the experiment was in the noble cause of education, and was designed to test whether or not punishing pupils for their mistakes would have a positive effect on the pupils' ability to learn.
+
+B    Milgram's experimental set-up involved placing the teacher-subject before a panel of thirty switches with labels ranging from '15 volts of electricity (slight shock)' to '450 volts (danger - severe shock)' in steps of 15 volts each. The teacher-subject was told that whenever the pupil gave the wrong answer to a question, a shock was to be administered, beginning at the lowest level and increasing in severity with each successive wrong answer. The supposed 'pupil' was in reality an actor hired by Milgram to simulate receiving the shocks by emitting a spectrum of groans, screams and writhings together with an assortment of statements and expletives denouncing both the experiment and the experimenter. Milgram told the teacher-subject to ignore the reactions of the pupil, and to administer whatever level of shock was called for, as per the rule governing the experimental situation of the moment.
+
+C    As the experiment unfolded, the pupil would deliberately give the wrong answers to questions posed by the teacher, thereby bringing on various electrical punishments, even up to the danger level of 300 volts and beyond. Many of the teacher-subjects balked at administering the higher levels of punishment, and turned to Milgram with questioning looks and/or complaints about continuing the experiment. In these situations, Milgram calmly explained that the teacher-subject was to ignore the pupil's cries for mercy and carry on with the experiment. If the subject was still reluctant to proceed, Milgram said that it was important for the sake of the experiment that the procedure be followed through to the end. His final argument was, 'You have no other choice. You must go on.' What Milgram was trying to discover was the number of teacher-subjects who would be willing to administer the highest levels of shock, even in the face of strong personal and moral revulsion against the rules and conditions of the experiment.
+
+D    Prior to carrying out the experiment, Milgram explained his idea to a group of 39 psychiatrists and asked them to predict the average percentage of people in an ordinary population who would be willing to administer the highest shock level of 450 volts. The overwhelming consensus was that virtually all the teacher-subjects would refuse to obey the experimenter. The psychiatrists felt that 'most subjects would not go beyond 150 volts' and they further anticipated that only four per cent would go up to 300 volts. Furthermore, they thought that only a lunatic fringe of about one in 1,000 would give the highest shock of 450 volts.
+
+E    What were the actual results? Well, over 60 per cent of the teacher-subjects continued to obey Milgram up to the 450-volt limit! In repetitions of the experiment in other countries, the percentage of obedient teacher-subjects was even higher, reaching 85 per cent in one country. How can we possibly account for this vast discrepancy between what calm, rational, knowledgeable people predict in the comfort of their study and what pressured, flustered, but cooperative 'teachers' actually do in the laboratory of real life?
+
+F    One's first inclination might be to argue that there must be some sort of built-in animal aggression instinct that was activated by the experiment, and that Milgram's teacher-subjects were just following a genetic need to discharge this pent-up primal urge onto the pupil by administering the electrical shock. A modern hard-core sociobiologist might even go so far as to claim that this aggressive instinct evolved as an advantageous trait, having been of survival value to our ancestors in their struggle against the hardships of life on the plains and in the caves, ultimately finding its way into our genetic make-up as a remnant of our ancient animal ways.
+
+G    An alternative to this notion of genetic programming is to see the teacher-subjects' actions as a result of the social environment under which the experiment was carried out. As Milgram himself pointed out, 'Most subjects in the experiment see their behaviour in a larger context that is benevolent and useful to society - the pursuit of scientific truth. The psychological laboratory has a strong claim to legitimacy and evokes trust and confidence in those who perform there. An action such as shocking a victim, which in isolation appears evil, acquires a completely different meaning when placed in this setting.'
+
+H    Thus, in this explanation the subject merges his unique personality and personal and moral code with that of larger institutional structures, surrendering individual properties like loyalty, self-sacrifice and discipline to the service of malevolent systems of authority.
+
+I    Here we have two radically different explanations for why so many teacher-subjects were willing to forgo their sense of personal responsibility for the sake of an institutional authority figure. The problem for biologists, psychologists and anthropologists is to sort out which of these two polar explanations is more plausible. This, in essence, is the problem of modern sociobiology - to discover the degree to which hard-wired genetic programming dictates, or at least strongly biases, the interaction of animals and humans with their environment, that is, their behaviour. Put another way, sociobiology is concerned with elucidating the biological basis of all behaviour.
+
+Questions 14-19
+
+Choose the correct answer.
+14.a biological explanation of the teacher-subjects' behaviour									
+15.the explanation Milgram gave the teacher-subjects for the experiment									
+16.the identity of the pupils									
+17.the expected statistical outcome									
+18.the general aim of sociobiological study									
+19.the way Milgram persuaded the teacher-subjects to continue		
+正确答案：14、F15、A16、B17、D18、I19、C
+
+题号：14
+
+定位词：biological explanation, teacher-subject
+
+F段：…and that Milgram' s teacher-subjects were just following a genetic need to discharge this pent-up primal urge onto the pupil by administering the electrical shock.
+
+题号：15
+
+定位词：explanation, for the experiment
+
+A段：Specifically, Milgram told each volunteer "teacher-subject" that the experiment was in the noble cause of education.
+
+题号：16
+
+定位词：identity, pupil
+
+B段：The supposed "pupil" was in reality an actor hired by Milgram to simulate receiving the shocks by…
+
+题号：17
+
+定位词：expected, statistical
+
+D段：The psychiatrists felt that "most subjects would not go beyond 150 volts" and they further anticipated that only four per cent would go up to 300 volts.
+
+TIPS：首先可以根据statistical一词找数据及百分比较多的段落，然后再大致浏览，判断是预期的结果还是真实结果。
+
+题号：18
+
+定位词：general aim, sociobiological study
+
+I段：This, in essence, is the problem of modern sociobiology to discover the degree to which hard-wired genetic programming...
+
+题号：19
+
+定位词：persuaded, continue
+
+C段：Many of the teacher-subjects balked at administering the higher levels of punishment, ... ,'You have no other choice. You must go on.'		
+
+Choose the correct answer.
+
+
+
+20
+The teacher-subjects were told that they were testing whether
+
+
+A.a 450-volt shock was dangerous.
+
+B.punishment helps learning.
+
+C.the pupils were honest.
+
+D.they were suited to teaching.
+
+正确答案：B
+
+定位词：teacher-subjects were told…
+
+题目：扮演教师的试验对象被告知他们在检验
+
+A 450伏电压是否危险
+
+B 惩罚是否有助于学习
+
+C 学生是否诚实
+
+D 他们是否能胜任教学工作
+
+文中对应A段：Specifically, Milgram told each volunteer ... positive effect on the pupils' ability to learn.
+
+21
+The teacher-subjects were instructed to
+
+
+A.stop when a pupil asked them to.
+
+B.denounce pupils who made mistakes.
+
+C.reduce the shock level after a correct answer.
+
+D.give punishment according to a rule.
+
+正确答案：D
+
+定位词：instructed to…
+
+题目：扮演教师的试验对象被指示
+
+A 学生一求饶就停止
+
+B 责骂犯错的学生
+
+C 得到正确答案后就降低电击强度
+
+D 根据规则施加惩罚
+
+文中对应B段：Milgram told the teacher subject to ... the experimental situation of the moment.
+
+
+22
+Before the experiment took place the psychiatrists
+
+
+A.believed that a shock of 150 volts was too dangerous.
+
+B.failed to agree on how the teacher-subjects would respond to instructions.
+
+C.underestimated the teacher-subjects' willingness to comply with experimental procedure.
+
+D.thought that many of the teacher-subjects would administer a shock of 450 volts.
+正确答案：C
+定位词：psychiatrists
+
+题目：试验开始之前，精神科医生
+
+A 认为150伏电击太危险了
+
+B 没能就扮演教师的试验对象会如何反应达成共识
+
+C 低估了教师对试验规则的遵从程度
+
+D 认为许多扮演教师的试验对象都会使用450伏电压
+
+文中对应D段:The overwhelming consensus was that virtually all the teacher-subjects would refuse to obey the experimenter.
+
+文中对应E段：What were the actual results? Well, over 60 per cent of the teacher-subjects continued to obey Milgram up to the 450-volt limit!
+
+由这两句话的反差可以看出，精神科医生的确低估了试验对象对规则的遵从程度
+
+23
+Several of the subjects were psychology students at Yale University.
+TRUE
+FALSE
+NOT GIVEN
+
+正确答案：NG
+参考译文：有几名试验对象是耶鲁大学心理学系的学生。
+
+定位词：Yale University
+
+解题关键词：psychology students
+
+文中对应A段：...Stanley Milgram of Yale University tested 40 subjects from all walks of life for...all walks of life是社会各界的意思，我们并不能肯定试验者就是来自耶鲁大学的心理学学生。本题属于典型的完全未提及型NOT GIVEN。
+
+24
+Some people may believe that the teacher-subjects' behaviour could be explained as a positive survival mechanism.
+TRUE
+FALSE
+NOT GIVEN
+
+正确答案：T
+参考译文：有人可能会认为扮演老师的实验对象的行为可以被解释为一种积极的生存机制。
+
+定位词：explain, survival mechanism
+
+解题关键词：may, could be, positive
+
+文中对应F段: A modern hard-core sociobiologist might ... of life on the plains and in the caves...
+
+advantageous trait优势特征，可以与positive 对应
+
+25
+In a sociological explanation, personal values are more powerful than authority.
+TRUE
+FALSE
+NOT GIVEN
+
+正确答案：F
+参考译文：从社会生物学角度解释，个人价值观比权威机构更加有力量。
+
+定位词：sociobiological explanation
+
+解题关键词：personal, authority
+
+文中对应H段：Thus, in this explanation the subject merges ... the service of malevolent systems of authority.
+
+I段： Here we have two radically different explanations for why so many teacher subjects were willing to forgo their sense of personal responsibility for the sake of an institutional authority figure.
+
+这两句都可以体现出个人价值观在权威机构面前的无奈。
+
+26
+Milgram's experiment solves an important question in sociobiology.
+TRUE
+FALSE
+NOT GIVEN
+正确答案：F
+参考译文：Milgram的试验解决了社会生物学的一个重大问题.
+
+定位词：sociobiology
+
+解题关键词：solve
+
+文中对应I段整个段落：…radically different explanation…problem...sort out…two polar
+
+等字眼都带有强烈的负面感情色彩。虽然文章并未点明，但是可以推测出Milgram的实验并未解决社会生物学上的这个重大问题，只不过是证明了这个问题的存在罢了。因此答案应该选FALSE。

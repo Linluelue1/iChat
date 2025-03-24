@@ -1,0 +1,363 @@
+5-1-3
+Title: The Truth about the Environment
+
+Context：
+For many environmentalists, the world seems to be getting worse. They have developed a hit-list of our main fears: that natural resources are running out; that the population is ever growing, leaving less and less to eat; that species are becoming extinct in vast numbers, and that the planet's air and water are becoming ever more polluted.
+
+But a quick look at the facts shows a different picture. First, energy and other natural resources have become more abundant, not less so, since the book 'The Limits to Growth' was published in 1972 by a group of scientists. Second, more food is now produced per head of the world's population than at any time in history. Fewer people are starving. Third, although species are indeed becoming extinct, only about 0.7% of them are expected to disappear in the next 50 years, not 25-50%, as has so often been predicted. And finally, most forms of environmental pollution either appear to have been exaggerated, or are transient - associated with the early phases of industrialisation and therefore best cured not by restricting economic growth, but by accelerating it. One form of pollution - the release of greenhouse gases that causes global warming - does appear to be a phenomenon that is going to extend well into our future, but its total impact is unlikely to pose a devastating problem. A bigger problem may well turn out to be an inappropriate response to it.
+
+Yet opinion polls suggest that many people nurture the belief that environmental standards are declining and four factors seem to cause this disjunction between perception and reality.
+
+One is the lopsidedness built into scientific research. Scientific funding goes mainly to areas with many problems. That may be wise policy, but it will also create an impression that many more potential problems exist than is the case.
+
+Secondly, environmental groups need to be noticed by the mass media. They also need to keep the money rolling in. Understandably, perhaps, they sometimes overstate their arguments. In 1997, for example, the World Wide Fund for Nature issued a press release entitled: 'Two thirds of the world's forests lost forever'. The truth turns out to be nearer 20%.
+
+Though these groups are run overwhelmingly by selfless folk, they nevertheless share many of the characteristics of other lobby groups. That would matter less if people applied the same degree of scepticism to environmental lobbying as they do to lobby groups in other fields. A trade organisation arguing for, say, weaker pollution controls is instantly seen as self-interested. Yet a green organisation opposing such a weakening is seen as altruistic, even if an impartial view of the controls in question might suggest they are doing more harm than good.
+
+A third source of confusion is the attitude of the media. People are clearly more curious about bad news than good. Newspapers and broadcasters are there to provide what the public wants. That, however, can lead to significant distortions of perception. An example was America's encounter with El Niño in 1997 and 1998. This climatic phenomenon was accused of wrecking tourism, causing allergies, melting the ski-slopes and causing 22 deaths. However, according to an article in the Bulletin of the American Meteorological Society, the damage it did was estimated at US $4 billion but the benefits amounted to some US $19 billion. These came from higher winter temperatures (which saved an estimated 850 lives, reduced heating costs and diminished spring floods caused by meltwaters).
+
+The fourth factor is poor individual perception. People worry that the endless rise in the amount of stuff everyone throws away will cause the world to run out of places to dispose of waste. Yet, even if America's trash output continues to rise as it has done in the past, and even if the American population doubles by 2100, all the rubbish America produces through the entire 21st century will still take up only one-12,000th of the area of the entire United States.
+
+So what of global warming? As we know, carbon dioxide emissions are causing the planet to warm. The best estimates are that the temperatures will rise by 2-3℃ in this century, causing considerable problems, at a total cost of US $5,000 billion.
+
+Despite the intuition that something drastic needs to be done about such a costly problem, economic analyses clearly show it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures. A model by one of the main authors of the United Nations Climate Change Panel shows how an expected temperature increase of 2.1 degrees in 2100 would only be diminished to an increase of 1.9 degrees. Or to put it another way, the temperature increase that the planet would have experienced in 2094 would be postponed to 2100.
+
+So this does not prevent global warming, but merely buys the world six years. Yet the cost of reducing carbon dioxide emissions, for the United States alone, will be higher than the cost of solving the world's single, most pressing health problem: providing universal access to clean drinking water and sanitation. Such measures would avoid 2 million deaths every year, and prevent half a billion people from becoming seriously ill.
+
+It is crucial that we look at the facts if we want to make the best possible decisions for the future. It may be costly to be overly optimistic - but more costly still to be too pessimistic.
+
+Questions 27
+Choose YES if the statement agrees with the claims of the writer,
+choose NO if the statement contradicts the claims of the writer,
+or choose NOT GIVEN if it is impossible to say what the writer thinks about this.
+Environmentalists take a pessimistic view of the world for a number of reasons.
+YES
+NO
+NOT GIVEN
+
+正确答案：Y
+收起解析
+参考译文：由于一系列原因，环保主义者对世界持悲观的态度。
+
+定位词：environmentalists
+
+解题关键词：pessimistic, a number of reasons
+
+文中对应第一段：For many environmentalists, the world seems to be getting worse. They have developed a hit-list of our main fears: …hit-list重要事件的列表，按计划进行杀害的名单。在这里应该理解为一系列。
+
+Questions 28
+Choose YES if the statement agrees with the claims of the writer,
+choose NO if the statement contradicts the claims of the writer,
+or choose NOT GIVEN if it is impossible to say what the writer thinks about this.
+Data on the Earth's natural resources has only been collected since 1972
+YES
+NO
+NOT GIVEN
+
+正确答案：NG
+收起解析
+参考译文：1972年之后人们才开始收集有关地球自然资源的数据。
+
+定位词：1972
+
+解题关键词：only
+
+文中对应第二段：..... "The Limits to Growth" was published in 1972 by a group of scientists."1972年这个信息只在上面这句话中出现，而按照顺序解题原则，这道题目的答案只能在第二段中寻找，实际上该段并未提到任何关于资料搜集开始时间的信息。所以这是一道典型的NOT GIVEN。
+
+Questions 29
+Choose YES if the statement agrees with the claims of the writer,
+choose NO if the statement contradicts the claims of the writer,
+or choose NOT GIVEN if it is impossible to say what the writer thinks about this.
+The number of starving people in the world has increased in recent years.
+YES
+NO
+NOT GIVEN
+正确答案：N
+收起解析
+参考译文：近几年来，世界上挨饿的人越来越多。
+
+定位词：starving people
+
+解题关键词：increased
+
+文中对应第二段：Fewer people are starving.
+
+
+Questions 30
+Choose YES if the statement agrees with the claims of the writer,
+choose NO if the statement contradicts the claims of the writer,
+or choose NOT GIVEN if it is impossible to say what the writer thinks about this.
+Extinct species are being replaced by new species.
+YES
+NO
+NOT GIVEN
+
+正确答案：NG
+收起解析
+参考译文：灭绝物种正在被新物种所代替。
+
+定位词：species
+
+解题关键词：replaced
+
+文中对应第二段：Third, although species are indeed becoming extinct, only about 0.7% of them are expected to disappear in the next 50 years, ...这一句虽然提到了物种，但是并没有提到题目中论述的那个话题。而且，题目其实也是在变相地将新旧物种比较，属于并不存在的比较关系，因此应选择NOTGIVEN。
+
+Questions 31
+Choose YES if the statement agrees with the claims of the writer,
+choose NO if the statement contradicts the claims of the writer,
+or choose NOT GIVEN if it is impossible to say what the writer thinks about this.
+Some pollution problems have been correctly linked to industrialisation.
+YES
+NO
+NOT GIVEN
+
+正确答案：Y
+收起解析
+参考译文：有些污染问题的确和工业化有关。
+
+定位词：industrialisation
+
+解题关键词：been correctly linked to
+
+文中对应第二段：And finally, most forms of environmental pollution either appear to have been exaggerated, or are transient—associated with the early phases of industiralisation...这句话说明工业化早期的确引起了一些污染问题，故此题选YES。   
+
+Questions 32
+Choose YES if the statement agrees with the claims of the writer,
+choose NO if the statement contradicts the claims of the writer,
+or choose NOT GIVEN if it is impossible to say what the writer thinks about this.
+It would be best to attempt to slow down economic growth.
+YES
+NO
+NOT GIVEN
+
+正确答案：N
+收起解析
+参考译文：我们最好尝试减慢经济发展的速度。
+
+定位词：economic growth, best
+
+解题关键词：slow down
+
+文中对应第二段：…and therefore best cured not by restricting economic growth, but by accelerating it.文中已经明确提到控制污染的最好方式不是减慢经济发展速度，而是加速经济发展。
+
+Questions 33
+Choose the correct answer.
+What aspect of scientific research does the writer express concern about in paragraph 4?
+A.the need to produce results
+B.the lack of financial support
+C.the selection of areas to research
+D.the desire to solve every research problem
+
+正确答案：C
+收起解析
+定位：paragraph4
+
+题目：在第四段中，作者提出了对下列哪个科研领域的关注：
+
+A对成果的追求
+
+B缺乏资金支持
+
+C对研究领域的选择
+
+D试图解决所有问题的想法
+
+文中对应第四段第二句：Scientific funding goes mainly to areas with many problems. That may be wise policy, but it will…
+
+Questions 34
+Choose the correct answer.
+The writer quotes from the Worldwide Fund for Nature to illustrate how
+
+
+A.influential the mass media can be.
+
+B.effective environmental groups can be.
+
+C.the mass media can help groups raise funds.
+
+D.environmental groups can exaggerate their claims.
+
+正确答案：D
+收起解析
+定位词：Worldwide Fund for Nature
+
+题目：作者引用世界自然基金的数据是为了说明：
+
+A媒体的力量多么巨大
+
+B环保组织工作很有效
+
+C媒体可以帮助组织筹集资金
+
+D环保组织可能会夸大事实
+
+文中对应第五段：Understandably, perhaps, they sometimes overstate their arguments.
+
+正确答案：D
+
+Questions 35
+Choose the correct answer.
+What is the writer's main point about lobby groups in paragraph 6?
+
+
+A.Some are more active than others.
+
+B.Some are better organised than others.
+
+C.Some receive more criticism than others.
+
+D.Some support more important issues than others.
+
+正确答案：C
+收起解析
+定位：paragraph6
+
+题目：文中第六段作者对游说团体的看法：
+
+A某些团体比较活跃
+
+B有些团体的组织管理比较好
+
+C有些团体遭到更多的批判
+
+D有些团体关注更为重要的问题
+
+文中对应第六段：That would matter less if people applied the same degree of skepticism to environmental lobbying as they do to lobby groups in other fields.
+
+Questions 36
+Choose the correct answer.
+The writer suggests that newspapers print items that are intended to
+
+
+A.educate readers.
+
+B.meet their readers' expectations.
+
+C.encourage feedback from readers.
+
+D.mislead readers.
+
+正确答案：B
+收起解析
+定位词：newspaper print
+
+题目：作者认为报纸等新闻出版物应该：
+
+A教育读者
+
+B满足读者的需求
+
+C鼓励读者反馈意见
+
+D误导读者
+
+文中对应第七段：Newspaper and broadcasters are there to provide what the public wants.
+
+
+Questions 37
+Choose the correct answer.
+What does the writer say about America's waste problem?
+
+
+A.It will increase in line with population growth.
+
+B.It is not as important as we have been led to believe.
+
+C.It has been reduced through public awareness of the issues.
+
+D.It is only significant in certain areas of the country.
+
+正确答案：B
+收起解析
+定位词：America
+
+题目：作者对美国垃圾问题的观点是：
+
+A垃圾问题会随着人口增长而加剧
+
+B垃圾问题没有我们想象得严重
+
+C由于公众的关注，垃圾问题已经减轻了
+
+D垃圾问题只在某些地区比较严重
+
+文中对应第八段：Yet, even if America' s trash output continues to rise as it has done in the past, and even if the American population doubles by 2100, all the rubbish America produces through the entire 21st century will still take up only one-12,000 th of the area of the entire United
+
+States.
+
+正确答案：B
+
+Questions 38
+
+Choose the correct answer and move it into the gap.
+
+The writer admits that global warming is a 38 challenge, but says that it will not have a catastrophic impact on our future, if we deal with it in the 39 way. If we try to reduce the levels of greenhouse gases, he believes that it would only have a minimal impact on rising temperatures. He feels it would be better to spend money on the more 40 health problem of providing the world's population with clean drinking water.
+
+A unrealistic
+B agreed
+C expensive
+D right
+E long-term
+F usual
+G surprising
+H personal
+I urgent
+
+正确答案: E
+收起解析
+
+定位词：global warning/a
+
+文中对应最后四段大意理解
+
+题目解析：此空要求填一个形容词，而词库中基本上全是形容词，可以从逻辑角度和语意方面来分析。这里应该填一个表示正面感情色彩的形容词，而且这个词要可以和challenge搭配。那么选择范围就缩小到了agreed/ right long-term/surprising / urgent五个词上。然后再根据后半句but来判断，作者对全球变暖问题的态度是乐观的，显然应该是一个与catastrophic相反的词，因此范围最终缩小到了long-term。注意：这个答案在文章中不能直接找到，只能靠理解选择，这是一道极其特殊的summary题目。
+
+Questions 39
+
+Choose the correct answer and move it into the gap.
+
+The writer admits that global warming is a 38 challenge, but says that it will not have a catastrophic impact on our future, if we deal with it in the 39 way. If we try to reduce the levels of greenhouse gases, he believes that it would only have a minimal impact on rising temperatures. He feels it would be better to spend money on the more 40 health problem of providing the world's population with clean drinking water.
+
+A unrealistic
+B agreed
+C expensive
+D right
+E long-term
+F usual
+G surprising
+H personal
+I urgent
+
+正确答案: D
+收起解析
+定位词：way
+
+文中对应最后四段大意理解
+
+题目解析：right是放进这个空翻译起来最合适的单词，所以选了它。这个空的风格与上一空极其相似。
+
+Questions 40
+
+Choose the correct answer and move it into the gap.
+
+The writer admits that global warming is a 38 challenge, but says that it will not have a catastrophic impact on our future, if we deal with it in the 39 way. If we try to reduce the levels of greenhouse gases, he believes that it would only have a minimal impact on rising temperatures. He feels it would be better to spend money on the more 40 health problem of providing the world's population with clean drinking water.
+
+A unrealistic
+B agreed
+C expensive
+D right
+E long-term
+F usual
+G surprising
+H personal
+I urgent
+
+正确答案: I
+收起解析
+定位词：health problem
+
+文中对应倒数第二段
+
+题目解析：…most pressing health problem: providing universal access to clean drinking water and sanitation.这句话中的most pressing指最急迫的，最迫切的，正好和词库中的urgent相对应。
+
+注意：此题比较特殊，需要对后四段全面理解才能做出，应该加以注意。
